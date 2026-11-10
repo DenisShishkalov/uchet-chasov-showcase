@@ -4,9 +4,9 @@
 
 > **Неофициальная тестовая программа.** Это личная разработка для удобства учёта. Она не является официальным продуктом МЧС России, не связана с ведомством, не утверждена им и не заменяет официальные системы и документы. Все люди и данные на скриншотах вымышлены.
 
-Программа проходит опытную эксплуатацию у одного пользователя и работает без интернета. Здесь опубликованы описание, скриншоты и модуль расчётов с тестами. Полный код могу показать работодателю по запросу через контакты в профиле GitHub.
+Программа проходит опытную эксплуатацию у одного пользователя и работает без интернета. Здесь опубликованы описание, скриншоты и модуль расчётов с тестами. Демо-версию с вымышленными данными могу прислать по запросу через контакты в профиле GitHub.
 
-*An unofficial test project: a Windows desktop app (Electron) for tracking shift hours and overtime in fire protection. It is a personal tool made for convenience and is not an official product of, or affiliated with, EMERCOM of Russia. This repository is a showcase: description, screenshots with fictional data, and the tested calculation module. Full source is available to employers on request.*
+*An unofficial test project: a Windows desktop app (Electron) for tracking shift hours and overtime in fire protection. It is a personal tool made for convenience and is not an official product of, or affiliated with, EMERCOM of Russia. This repository is a showcase: description, screenshots with fictional data, and the tested calculation module. A demo installer with fictional data is available on request.*
 
 ![Обзор программы](docs/demo.gif)
 
