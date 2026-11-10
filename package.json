@@ -1,0 +1,11 @@
+{
+  "name": "uchet-chasov-showcase",
+  "version": "1.0.0",
+  "description": "Витрина программы «Учёт часов»: описание, скриншоты и модуль расчётов с тестами",
+  "type": "module",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
